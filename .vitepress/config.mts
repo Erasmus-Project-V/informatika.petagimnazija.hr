@@ -7,19 +7,17 @@ export default defineConfig({
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
-            { text: 'Pocetna', link: '/' },
+            { text: 'Početna', link: '/' },
             { text: "Upute za nastavnike", link: "/" },
-            { text: "Udzbenik", link: "https://udzbenik.informatika.petagimnazija.hr" },
-            { text: "", link: "" },
-            {text: 'Examples', link: '/markdown-examples'}
+            { text: "Udžbenik", link: "https://udzbenik.informatika.petagimnazija.hr" },
         ],
 
         sidebar: [
             {
                 text: 'Examples',
                 items: [
-                    {text: 'Markdown Examples', link: '/markdown-examples'},
-                    {text: 'Runtime API Examples', link: '/api-examples'}
+                    {text: 'Projekti učenika', link: '/student-projects'},
+                    {text: 'Interaktivni kod', link: '/udzbenik'}
                 ]
             }
         ],

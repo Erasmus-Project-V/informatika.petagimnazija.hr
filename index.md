@@ -5,20 +5,24 @@ layout: home
 hero:
   name: "Primijenjena informatika"
   text: "Kurikulum web programiranja za srednje škole"
-  tagline: My great project tagline
+  tagline: Naučite raditi web i mobilne aplikacije
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Projekti učenika
+      link: /student-projects
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Interaktivni kod
+      link: /udzbenik
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Praktična primjena
+    details: Kurikulum je fokusiran na praktičnu primjenu informatičkih znanja i programskog inženjerstvo.
+    icon:
+      src: ./assets/img/js-icon.png
+  - title: Razvoj aplikacija za sve platforme
+    details: Pomoću web tehnologija možete izrađivati aplikacije za web, mobitele i desktop računala.
+    icon:
+      src: ./assets/img/capacitor-icon.png
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---

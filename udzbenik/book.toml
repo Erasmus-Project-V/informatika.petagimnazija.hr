@@ -1,0 +1,6 @@
+[book]
+authors = ["Karlo Vizec", "Predrag Brođanac", "Vedran Kušić"]
+language = "hr"
+multilingual = false
+src = "src"
+title = "Primijenjena informatika"
