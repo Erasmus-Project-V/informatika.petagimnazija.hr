@@ -5,7 +5,10 @@
 
 # Frontend programiranje
 
-- [Uvod u Internet i računalne mreže](./internet.md)
+- [Uvod u Internet i računalne mreže](./uvod_internet/uvod.md)
+  - [Internet](./uvod_internet/internet.md)
+  - [World Wide Web](./uvod_internet/www.md)
+  - [Računalne mreže](./uvod_internet/racunalne_mreze.md)
 - [Osnove HTML-a](./uvod_html.md)
 - [Uvod u CSS](./uvod_css.md)
 - [Napredni koncepti CSS-a](./napredni_css.md)
@@ -13,9 +16,9 @@
 - [SASS i TailwindCSS](./predprocesori.md)
 - [Uvod u JavaScript i TypeScript](./uvod_js.md)
 - [Strukture podataka u JavaScriptu](./strukture_podataka.md)
+- [Upravljanje DOM-om](./dom.md)
 - [Objektno-orijentirano programiranje](./oop.md)
 - [Suvremene tehnologije](./suvremene_tehnologije.md)
-- [Upravljanje DOM-om](./dom.md)
 - [Asinkroni JavaScript](./async.md)
 - [Uvod u Svelte](./uvod_svelte.md)
 

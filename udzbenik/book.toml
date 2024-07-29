@@ -1,6 +1,8 @@
 [book]
-authors = ["Karlo Vizec", "Predrag Brođanac", "Vedran Kušić"]
+authors = ["Karlo Vizec", "Predrag Brođanac"]
 language = "hr"
 multilingual = false
 src = "src"
 title = "Primijenjena informatika"
+
+[preprocessor.alerts]
