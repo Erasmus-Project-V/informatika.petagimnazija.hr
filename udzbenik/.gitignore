@@ -1,1 +1,4 @@
 book
+mdbook-*
+udzbenik/mdbook-*/
+udzbenik/pandoc-*/

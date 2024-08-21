@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/udzbenik/mdbook-alerts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/udzbenik/mdbook-embedify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/udzbenik/mdbook-quiz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/udzbenik/pandoc-brachygraph" vcs="Git" />
   </component>
 </project>

@@ -2,13 +2,15 @@
 
 [Primijenjena informatika](./primijenjena_informatika.md)
 [Predgovor](./predgovor.md)
+[Uvod](./uvod/index.md)
 
 # Frontend programiranje
 
-- [Uvod u Internet i računalne mreže](./uvod_internet/uvod.md)
+- [Vaš osobni portfolio](./osnovna_web_stranica/index.md)
+- [Internet i računalne mreže](./uvod_internet/uvod.md)
   - [Internet](./uvod_internet/internet.md)
-  - [World Wide Web](./uvod_internet/www.md)
   - [Računalne mreže](./uvod_internet/racunalne_mreze.md)
+  - [World Wide Web](./uvod_internet/www.md)
 - [Osnove HTML-a](./uvod_html.md)
 - [Uvod u CSS](./uvod_css.md)
 - [Napredni koncepti CSS-a](./napredni_css.md)

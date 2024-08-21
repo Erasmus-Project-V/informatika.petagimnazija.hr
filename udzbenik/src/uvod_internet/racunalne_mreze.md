@@ -66,10 +66,9 @@ On odašilje i prima (te onda šalje uređaju koji je namijenjeni primatelj) pak
 > [!DEFINICIJA]
 > **Ruter** je uređaj koji povezuje računalne mreže te računala u njima tako što koordinirate slanje i primanje paketa podataka. Najčešće povezuje lokalnu mrežu s Internetom.
 
-<figure>
-  <img src="img/lan-diagram.png" alt="Dijagram LAN mreže">
-  <figcaption>Dijagram jednostavne LAN mreže s ruterom i nekoliko uređaja povezanih na njega. Kompliciranije LAN mreže mogu imati i mrežni preklopnik (engl. *switch*). Izvor: Cloudflare.</figcaption>
-</figure>
+![Dijagram jednostavne LAN mreže.](./img/lan-diagram.png)
+
+*Dijagram jednostavne LAN mreže s ruterom i nekoliko uređaja povezanih na njega. Kompliciranije LAN mreže mogu imati i mrežni preklopnik (engl. *switch*). Izvor: Cloudflare.*
 
 Komponente mreže prikazane na Slici 1.1 jesu one najčešće.
 Međutim, postoje i druge komponente mreža.
@@ -81,8 +80,7 @@ Međutim, preklopnici su često spojeni na ruter te tako mogu povezati računala
 
 > [!DEFINICIJA]
 > **Mrežni preklopnik** je uređaj koji povezuje računala unutar mreže tako što šalje podatkovne pakete na njihovo odredište.
+> 
+![Dijagram LAN mreže.](./img/switch-diagram.png)
 
-<figure>
-  <img src="img/switch-diagram.png" alt="Dijagram LAN mreže">
-  <figcaption>Dijagram LAN mreže s mrežnim preklopnikom. Izvor: Cloudflare.</figcaption>
-</figure>
+*Dijagram LAN mreže s mrežnim preklopnikom. Izvor: Cloudflare.*

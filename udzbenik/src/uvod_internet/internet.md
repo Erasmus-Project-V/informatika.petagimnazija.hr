@@ -11,10 +11,9 @@ Sam broj uređaja je ogroman, veći je od populacije Zemlje, a svakom godinom se
 > [!DEFINICIJA]
 > **Čvor** je fizičko računalo koje je član računalne mreže.
 
-<figure>
-  <img src="img/arpanet.png" alt="Dijagram ARPANET mreže u rujnu 1974.">
-  <figcaption>Dijagram ARPANET mreže u rujnu 1974. Izvor: Britannica.</figcaption>
-</figure>
+![Dijagram ARPANET mreže u rujnu 1974.](./img/arpanet.png)
+
+*Dijagram ARPANET mreže u rujnu 1974. Izvor: Britannica.*
 
 Dakle, zbog tolikog broja korisnika koje mora služiti, Internet mora biti dizajniran da podrži toliki broj korisnika.
 Kao što smo prije spomenuli, Internet je masovni, distribuiran sustav.
@@ -33,10 +32,10 @@ Pomoću njih obavještajne agencije mogu provoditi kibernetičku špijunažu.[^n
 
 [^note]: U SAD-u je ta agencija NSA, a u UK-u GCHQ.
 
-<figure>
-  <img src="img/internet-underwater-backbone.png" alt="Međukontinentalna mreža podvodnih komunikacijskih kablova koji služe kao kralježnica Interneta iz 2015.">
-  <figcaption>Međukontinentalna mreža podvodnih komunikacijskih kablova koji služe kao kralježnica Interneta iz 2015. Izvor: OpenStreetMap.</figcaption>
-</figure>
+![Međukontinentalna mreža podvodnih komunikacijskih kablova koji služe kao kralježnica Interneta iz 2015.](./img/internet-underwater-backbone.png)
+
+*Međukontinentalna mreža podvodnih komunikacijskih kablova koji služe kao kralježnica Interneta iz 2015. Izvor: OpenStreetMap.*
+
 
 ### Adresiranje, domene i DNS
 
@@ -112,10 +111,9 @@ DNS će prvo provjeriti lokalni spremnik, ako tamo nema zapisa ili ako IP adresa
 > [!DEFINICIJA]
 > **Imenski server** je server unutar DNS sustava koji procesira zahtjeve za prevođenje (rezoluciju) domena u IP adrese.
 
-<figure>
-  <img src="img/dns.png" alt="Hijerarhija DNS-a.">
-  <figcaption>Hijerarhija DNS-a.</figcaption>
-</figure>
+![Hijerarhija DNS-a.](./img/dns.png)
+
+*Hijerarhija DNS-a.*
 
 ### Mrežni protokoli
 
